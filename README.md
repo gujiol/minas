@@ -1,0 +1,2 @@
+# minas
+rety
